@@ -1,0 +1,12 @@
+{
+  "name": "angular-protractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mribichich/angular-protractor.git",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-protractor": "^0.3.0",
+    "protractor": "^5.1.1"
+  }
+}
